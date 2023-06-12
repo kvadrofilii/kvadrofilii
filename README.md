@@ -5,5 +5,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvadrofilii&layout=compact)](https://github.com/kvadrofilii/github-readme-stats)
 
-[![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true)]
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/kvadrofilii)]
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/kvadrofilii)
